@@ -17,13 +17,7 @@ Before joining NTU, I briefly worked for six months at Huawei Technologies Co., 
 
 Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
-[Email](mailto:l.xin@ntu.edu.sg): l.xin@ntu.edu.sg
-
-[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en): https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en
-
-[Github](https://github.com/MadFrogL): https://github.com/MadFrogL
-
-[Wechat](../images/Wechat.jpg): Click to scan this QR code.
+[Email](mailto:l.xin@ntu.edu.sg)/[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en)/[Github](https://github.com/MadFrogL)/[Wechat](../images/Wechat.jpg).
 
 
 ## Recent News:
