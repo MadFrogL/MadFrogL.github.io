@@ -1,5 +1,5 @@
 ---
-title: "UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing"
+title: "UWB-Fi Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing"
 collection: publications
 permalink: /publication/2024-06-UWBFi-MobiSys
 excerpt: 'We propose UWB-Fi as a novel Wi-Fi sensing system with ultra-wide bandwidth, leveraging only discrete and irregular channel sampling.'
