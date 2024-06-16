@@ -20,9 +20,9 @@ citation: '@inproceedings{li2024uwb,
 ---
 title: "UWB-Fi Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/2024-06-UWBFi-MobiSys
+excerpt: 'We propose UWB-Fi as a novel Wi-Fi sensing system with ultra-wide bandwidth, leveraging only discrete and irregular channel sampling.'
+date: 2024
 venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
