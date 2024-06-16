@@ -26,4 +26,10 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 [Wechat](../images/Wechat.jpg): Click to scan this QR code.
 
 
+## Recent News:
+
+### June 2024: Our new paper conditionally accepted at [ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/)!
+
+### June 2024: Our new paper published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889)!
+
 **Under Construction......**
