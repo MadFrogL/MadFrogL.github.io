@@ -15,6 +15,7 @@ citation: '@inproceedings{li2024uwb,
   year={2024}
 }'
 ---
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 -->
 
 ---
@@ -24,7 +25,6 @@ permalink: /publication/2024-06-UWBFi-MobiSys
 excerpt: 'We propose UWB-Fi as a novel Wi-Fi sensing system with ultra-wide bandwidth, leveraging only discrete and irregular channel sampling.'
 date: 2024
 venue: 'The 22nd ACM International Conference on Mobile Systems, Applications, and Services'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: '@inproceedings{li2024uwb,
   title={{UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing}},
