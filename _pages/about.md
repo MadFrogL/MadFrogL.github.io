@@ -15,13 +15,13 @@ Before joining NTU, I briefly worked for six months at Huawei Technologies Co., 
 
 You can also find me by:
 
-[Email](mailto:l.xin@ntu.edu.sg): l.xin@ntu.edu.sg;
+[Email](mailto:l.xin@ntu.edu.sg): l.xin@ntu.edu.sg
 
-[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en): https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en;
+[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en): https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en
 
-[Github](https://github.com/MadFrogL): https://github.com/MadFrogL;
+[Github](https://github.com/MadFrogL): https://github.com/MadFrogL
 
-[Wechat](../images/Wechat.jpg).
+[Wechat](../images/Wechat.jpg)
 
 
 Under Construction......
