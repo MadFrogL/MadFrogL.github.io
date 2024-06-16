@@ -13,7 +13,7 @@ I received my Ph.D. degree in Power Machinery and Engineering from the [State Ke
 
 Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit, and interned for three months at China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc.
 
-You can also find me by:
+**You can also find me by:**
 
 Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
