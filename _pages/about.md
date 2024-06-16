@@ -15,6 +15,8 @@ Before joining NTU, I briefly worked for six months at Huawei Technologies Co., 
 
 You can also find me by:
 
+Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
+
 [Email](mailto:l.xin@ntu.edu.sg): l.xin@ntu.edu.sg
 
 [Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en): https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en
