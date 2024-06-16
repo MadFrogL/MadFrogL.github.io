@@ -4,14 +4,14 @@ collection: publications
 permalink: /publication/2024-06-UWBFi-MobiSys
 excerpt: 'We propose UWB-Fi as a novel Wi-Fi sensing system with ultra-wide bandwidth, leveraging only discrete and irregular channel sampling.'
 date: 2024-06-03
-venue: '[The 22nd ACM International Conference on Mobile Systems, Applications, and Services](https://www.sigmobile.org/mobisys/2024/cfp.html)
-paperurl: 'http://MadFrogL.github.io/files/UWB-Fi Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing.pdf'
+venue: 'The 22nd ACM International Conference on Mobile Systems, Applications, and Services'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](http://MadFrogL.github.io/files/UWB-Fi Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing.pdf)'
 citation: '@inproceedings{li2024uwb,
-  title={UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing},
-  author={Li, Xin and Wang, Hongbo and Chen, Zhe and Jiang, Zhiping and Luo, Jun},
-  booktitle={Proc. of the 22nd ACM MobiSy},
-  pages={42--55},
-  year={2024}
+title={UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing},
+author={Li, Xin and Wang, Hongbo and Chen, Zhe and Jiang, Zhiping and Luo, Jun},
+booktitle={Proc. of the 22nd ACM MobiSy},
+pages={42--55},
+year={2024}
 }'
 ---
 
