@@ -26,11 +26,10 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 + Jun 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889)!
 + May 2024: I serve as a guest editor organizing a Special Issue in the journal [Processes](https://www.mdpi.com/journal/processes/special_issues/66PX93378U)!
 
-
+<!--
 ## Working State:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadFrogL&mode=weekly" alt="GitHub Streak" /></a>
 
-<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadFrogL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
  -->
 
