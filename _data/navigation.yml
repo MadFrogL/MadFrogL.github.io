@@ -23,6 +23,9 @@ main:
 
   - title: "Experiences"
     url: /Experiences/
+  
+  - title: "Personal"
+    url: /Personal/
 
-  - title: "More"
-    url: /forMe/
+  #- title: "More"
+  #  url: /forMe/
