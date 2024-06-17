@@ -28,8 +28,10 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
 ## Working State:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadFrogL&mode=weekly" alt="GitHub Streak" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadFrogL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadFrogL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+ -->
 
 ## Visitors:
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=LH5PmHjr6h4ApcKK5c3RcaBP6l2O1OzOoPOmT_O_etI'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=LH5PmHjr6h4ApcKK5c3RcaBP6l2O1OzOoPOmT_O_etI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
