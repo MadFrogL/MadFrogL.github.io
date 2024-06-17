@@ -1,10 +1,10 @@
 ---
-permalink: /Experiences/
-title: "Experiences"
+permalink: /Personal/
+title: "Personal"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Experiences.html
+  - /Personal.html
 ---
 
 ## Hobby
@@ -15,4 +15,4 @@ redirect_from:
 ...
 
 ## Other
-+ 
++ I enjoy arguing with people on Hupu and in games to relieve stress!!!!! O(∩_∩)O
