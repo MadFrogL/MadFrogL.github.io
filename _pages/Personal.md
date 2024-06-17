@@ -12,7 +12,7 @@ redirect_from:
 + Hiking
 + Photograph
 + Basketball
-...
++ ...
 
 ## Other
 + I enjoy arguing with people on Hupu and in games to relieve stress!!!!! O(∩_∩)O

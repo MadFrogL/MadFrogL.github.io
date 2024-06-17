@@ -9,7 +9,8 @@ author_profile: true
 
 # [Homepage](https://madfrogl.github.io//)
 # [Publications](https://madfrogl.github.io//publications/)
-# Under Construction......
+# [Experiences](https://madfrogl.github.io//Experiences/)
+# [Personal](https://madfrogl.github.io//Personal/)
 
 
 <!--
