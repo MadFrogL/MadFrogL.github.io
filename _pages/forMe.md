@@ -1,13 +1,13 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /forMe/
+title: "More"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /forMe.html
 ---
 
-## Locations of key files/directories
+## Under Construction......
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
