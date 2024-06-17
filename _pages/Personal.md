@@ -7,12 +7,17 @@ redirect_from:
   - /Personal.html
 ---
 
+😀😀😀😀😀This is a very informal personal introduction page!!!
+
+
 ## Hobby
-+ Video games
-+ Hiking
-+ Photograph
-+ Basketball
++ I enjoy experiencing new things!
++ Hiking🥾
++ Photograph🖼️
++ Basketball🏀
++ Video games🎮
 + ...
 
 ## Other
-+ I enjoy arguing with people on Hupu and in games to relieve stress!!!!! O(∩_∩)O
++ I enjoy arguing with people on Hupu and in games to relieve stress 💀💀💀
++ Klorane shampoo really can prevent hair loss! (Not an ad...)  🤣🤣🤣🤣🤣
