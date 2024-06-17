@@ -26,5 +26,9 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 + Jun 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889)!
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadFrogL&mode=weekly" alt="GitHub Streak" /></a>
+
 ## Visitors:
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LH5PmHjr6h4ApcKK5c3RcaBP6l2O1OzOoPOmT_O_etI"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LH5PmHjr6h4ApcKK5c3RcaBP6l2O1OzOoPOmT_O_etI&cl=ffffff&w=a"></script>
