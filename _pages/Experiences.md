@@ -27,4 +27,4 @@ redirect_from:
 + Formula Student China Formula Student Team
   - Successively held the posts of observation, technician, financial staff, technical leader, and captain.
   - The second in the Fuel Economy Event and the second prize in the Light Weight Event of the 2013 FSC competition.
-(https://github.com/MadFrogL/MadFrogL.github.io/tree/master/images/FSC.jpg)
+    [Click](../images/FSC.jpg)
