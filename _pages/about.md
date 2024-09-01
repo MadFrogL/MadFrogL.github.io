@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing). My supervisor is respected Professor [Jun Luo](https://dr.ntu.edu.sg/cris/rp/rp01107), and my current research interests include wireless sensing, machine learning, and signal processing. I have also conducted research in the fields of acoustics and vibration analysis.
 
-I received my Ph.D. degree in Power Machinery and Engineering from the [State Key Laboratory of Engines](https://www.tju.edu.cn/info/1058/1442.htm) at [Tianjin University](https://www.tju.edu.cn/) in 2022. I know my Ph.D. might seem unrelated to computer science, but my research focused on noise and vibration signal processing, which gave me a lot of freedom to explore and innovate.
+I received my Ph.D. degree in Power Machinery and Engineering from the [State Key Laboratory of Engines](https://www.tju.edu.cn/info/1058/1442.htm) at [Tianjin University](https://www.tju.edu.cn/) in 2022. I know my Ph.D. might seem unrelated to computer science, but my research focused on acoustics and vibration signal processing, which gave me a lot of freedom to explore and innovate.
 
 Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit, and interned for three months at China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc.
 
@@ -21,7 +21,7 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
 
 ## Recent News:
-+ Jun 2024: Our new paper is conditionally accepted at [ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/)!
++ Aug 2024: Our new paper is accepted at [ACM MobiCom 2024](https://www.researchgate.net/profile/Jun-Luo-10/publication/383396909_Beamforming_made_Malicious_Manipulating_Wi-Fi_Traffic_via_Beamform-ing_Feedback_Forgery/links/66ce79eb64f7bf7b19450153/Beamforming-made-Malicious-Manipulating-Wi-Fi-Traffic-via-Beamform-ing-Feedback-Forgery.pdf)!
 + Jun 2024: Our new paper is published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/abstract/document/10551398)!
 + Jun 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889)!
 + May 2024: I serve as a guest editor organizing a Special Issue in the journal [Processes](https://www.mdpi.com/journal/processes/special_issues/66PX93378U)!
