@@ -9,7 +9,7 @@ paperurl: 'http://MadFrogL.github.io/files/UWB.pdf'
 citation: '@inproceedings{li2024uwb,
 title={UWB-Fi: Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing},
 author={Li, Xin and Wang, Hongbo and Chen, Zhe and Jiang, Zhiping and Luo, Jun},
-booktitle={Proc. of the 22nd ACM MobiSy},
+booktitle={Proc. of the 22nd ACM MobiSys},
 pages={42--55},
 year={2024}
 }'
