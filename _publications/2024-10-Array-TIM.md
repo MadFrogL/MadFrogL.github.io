@@ -6,14 +6,14 @@ excerpt: 'This study proposes a data-driven optimization strategy for constructi
 date: 2024-10-25
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 paperurl: 'http://MadFrogL.github.io/files/2024-10-Array-TIM.pdf'
-citation: '@nproceedings{xu2024beamforming,
-  title={Data-Driven Optimization Strategy of Microphone Array Configurations in Vehicle Environments},
+citation: '@article{liu2024data,
+  title={{Data-Driven Optimization Strategy of Microphone Array Configurations in Vehicle Environments}},
   author={Liu, Lehai and Bi, Fengrong and Lin, Jiewei and Qi, Tongtong and Li, Xin},
   journal={IEEE Transactions on Instrumentation and Measurement},
   volume={},
   pages={},
   year={},
-  publisher={IEEE }
+  publisher={IEEE}
 }'
 ---
 

@@ -6,8 +6,8 @@ excerpt: 'The core idea of BeamCraft involves corrupting beamforming decisions b
 date: 2024-08-31
 venue: 'The 30th Annual International Conference On Mobile Computing And Networking'
 paperurl: 'http://MadFrogL.github.io/files/MobiCom24_BeamCraft.pdf'
-citation: '@nproceedings{xu2024beamforming,
-  title={Beamforming Made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery},
+citation: '@inproceedings{xu2024beamforming,
+  title={{Beamforming Made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery}},
   author={Xu, Mingming and He, Yinghui and Li, Xin and Hu, Jingzhi and Chen, Zhe and Xiao, Fu and Luo, Jun},
   booktitle={Proc. of the 30th ACM MobiCom},
   pages={},
