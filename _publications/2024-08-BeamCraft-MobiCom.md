@@ -2,7 +2,7 @@
 title: "Beamforming Made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery"
 collection: publications
 permalink: /publication/2024-08-BeamCraft-MobiCom
-excerpt: 'The core idea of BeamCraft involves corrupting beamforming decisions by injecting crafted BFIs that feed an access point (AP) with erroneous information on channel states. [Code](Pending)'
+excerpt: 'The core idea of BeamCraft involves corrupting beamforming decisions by injecting crafted BFIs that feed an access point (AP) with erroneous information on channel states. [Code](https://github.com/Dxploto/BeamCraft_AE)'
 date: 2024-08-31
 venue: 'The 30th Annual International Conference On Mobile Computing And Networking'
 paperurl: 'http://MadFrogL.github.io/files/MobiCom24_BeamCraft.pdf'
