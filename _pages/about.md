@@ -21,7 +21,7 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
 
 ## Recent News:
-+ Oct 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
++ Oct 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/abstract/document/10736432).
 + Aug 2024: Our new paper is accepted at [ACM MobiCom 2024](https://www.researchgate.net/profile/Jun-Luo-10/publication/383396909_Beamforming_made_Malicious_Manipulating_Wi-Fi_Traffic_via_Beamform-ing_Feedback_Forgery/links/66ce79eb64f7bf7b19450153/Beamforming-made-Malicious-Manipulating-Wi-Fi-Traffic-via-Beamform-ing-Feedback-Forgery.pdf).
 + Jun 2024: Our new paper is published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/abstract/document/10551398).
 + Jun 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889).
