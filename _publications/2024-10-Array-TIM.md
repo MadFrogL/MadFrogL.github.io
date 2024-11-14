@@ -10,9 +10,9 @@ citation: '@article{liu2024data,
   title={{Data-Driven Optimization Strategy of Microphone Array Configurations in Vehicle Environments}},
   author={Liu, Lehai and Bi, Fengrong and Lin, Jiewei and Qi, Tongtong and Li, Xin},
   journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={},
-  pages={},
-  year={},
+  volume={73},
+  pages={6506310},
+  year={2024},
   publisher={IEEE}
 }'
 ---
