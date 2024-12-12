@@ -21,6 +21,8 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
 
 ## Recent News:
+<!-- 7 -->
++ Dec 2024: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html)
 <!-- 6 -->
 + Dec 2024: Our new paper is accepted at [IEEE INFOCOM 2025](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference).
 <!-- 5 -->
