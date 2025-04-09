@@ -22,7 +22,7 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
 ## Recent News:
 <!-- 8 -->
-+ Mar 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
++ Mar 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330).
 <!-- 7 -->
 + Dec 2024: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
 <!-- 6 -->
