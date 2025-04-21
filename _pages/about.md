@@ -19,6 +19,8 @@ Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798
 
 [Email](mailto:l.xin@ntu.edu.sg)/[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en)/[Github](https://github.com/MadFrogL)/[Wechat](../images/Wechat.jpg).
 
+Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
+
 
 ## Recent News:
 <!-- 8 -->
