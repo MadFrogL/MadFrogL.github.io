@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-08-Poison2Cure
 excerpt: 'This study leverages poisoning attacks to protect user privacy. [Code](https://github.com/DeepWiSe888/Poison2Cure)'
 date: 2025-08-31
-venue: 'ACM MobiCom 2025'
+venue: 'ACM MobiCom'
 paperurl: 'http://MadFrogL.github.io/files/Poison2Cure.pdf'
 citation: '@inproceedings{hu2024poison,
   title={{Poison to Cure: Privacy-preserving Wi-Fi Multi-User Sensing via Data Poisoning}},
