@@ -21,3 +21,4 @@ redirect_from:
 ## Other
 + I enjoy arguing with people on Hupu and in games to relieve stress 💀💀💀
 + Klorane shampoo really can prevent hair loss! (Not an ad...)  🤣🤣🤣🤣🤣
++ Placing a bolster under the legs while sleeping can help relieve back pain :satisfied::satisfied::satisfied:
