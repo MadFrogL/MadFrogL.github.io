@@ -23,6 +23,8 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 
 ## Recent News:
+<!-- 9 -->
++ May 2025: Our new paper is accepted at [IEEE JSAC](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/future-wi-fi-and-wireless-technologies-unlicensed-spectra).
 <!-- 8 -->
 + Mar 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330).
 <!-- 7 -->
