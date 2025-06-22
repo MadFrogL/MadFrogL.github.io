@@ -24,7 +24,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 ## Recent News:
 <!-- 10 -->
-+ Jun 2025: Our new paper is accepted at[ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html)
++ Jun 2025: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html)
 <!-- 9 -->
 + May 2025: Our new paper is accepted at [IEEE JSAC](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/future-wi-fi-and-wireless-technologies-unlicensed-spectra).
 <!-- 8 -->
