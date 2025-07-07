@@ -26,13 +26,13 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 <!-- 10 -->
 + Jun 2025: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html)
 <!-- 9 -->
-+ May 2025: Our new paper is accepted at [IEEE JSAC](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/future-wi-fi-and-wireless-technologies-unlicensed-spectra).
++ May 2025: Our new paper is accepted at [IEEE JSAC](https://ieeexplore.ieee.org/abstract/document/11059930).
 <!-- 8 -->
 + Mar 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330).
 <!-- 7 -->
 + Dec 2024: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
 <!-- 6 -->
-+ Dec 2024: Our new paper is accepted at [IEEE INFOCOM 2025](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference).
++ Dec 2024: Our new paper is accepted at [IEEE INFOCOM 2025](https://ieeexplore.ieee.org/abstract/document/11044653).
 <!-- 5 -->
 + Oct 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/abstract/document/10736432).
 <!-- 4 -->
