@@ -23,8 +23,10 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 
 ## Recent News:
+<!-- 11 -->
++ Jul 2025: Our new paper is published at [IEEE TWC](https://ieeexplore.ieee.org/document/11091530).
 <!-- 10 -->
-+ Jun 2025: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html)
++ Jun 2025: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
 <!-- 9 -->
 + May 2025: Our new paper is accepted at [IEEE JSAC](https://ieeexplore.ieee.org/abstract/document/11059930).
 <!-- 8 -->
