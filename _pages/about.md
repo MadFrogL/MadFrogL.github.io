@@ -23,28 +23,30 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 
 ## Recent News:
+<!-- 12 -->
++ Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi).
 <!-- 11 -->
-+ Jul 2025: Our new paper is published at [IEEE TWC](https://ieeexplore.ieee.org/document/11091530).
++ Jul. 2025: Our new paper is published at [IEEE TWC](https://ieeexplore.ieee.org/document/11091530).
 <!-- 10 -->
-+ Jun 2025: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
++ Jun. 2025: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
 <!-- 9 -->
-+ May 2025: Our new paper is accepted at [IEEE JSAC](https://ieeexplore.ieee.org/abstract/document/11059930).
++ May. 2025: Our new paper is accepted at [IEEE JSAC](https://ieeexplore.ieee.org/abstract/document/11059930).
 <!-- 8 -->
-+ Mar 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330).
++ Mar. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330).
 <!-- 7 -->
-+ Dec 2024: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
++ Dec. 2024: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
 <!-- 6 -->
-+ Dec 2024: Our new paper is accepted at [IEEE INFOCOM 2025](https://ieeexplore.ieee.org/abstract/document/11044653).
++ Dec. 2024: Our new paper is accepted at [IEEE INFOCOM 2025](https://ieeexplore.ieee.org/abstract/document/11044653).
 <!-- 5 -->
-+ Oct 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/abstract/document/10736432).
++ Oct. 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/abstract/document/10736432).
 <!-- 4 -->
-+ Aug 2024: Our new paper is accepted at [ACM MobiCom 2024](https://www.researchgate.net/profile/Jun-Luo-10/publication/383396909_Beamforming_made_Malicious_Manipulating_Wi-Fi_Traffic_via_Beamform-ing_Feedback_Forgery/links/66ce79eb64f7bf7b19450153/Beamforming-made-Malicious-Manipulating-Wi-Fi-Traffic-via-Beamform-ing-Feedback-Forgery.pdf).
++ Aug. 2024: Our new paper is accepted at [ACM MobiCom 2024](https://www.researchgate.net/profile/Jun-Luo-10/publication/383396909_Beamforming_made_Malicious_Manipulating_Wi-Fi_Traffic_via_Beamform-ing_Feedback_Forgery/links/66ce79eb64f7bf7b19450153/Beamforming-made-Malicious-Manipulating-Wi-Fi-Traffic-via-Beamform-ing-Feedback-Forgery.pdf).
 <!-- 3 -->
-+ Jun 2024: Our new paper is published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/abstract/document/10551398).
++ Jun. 2024: Our new paper is published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/abstract/document/10551398).
 <!-- 2 -->
-+ Jun 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889).
++ Jun. 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889).
 <!-- 1 -->
-+ May 2024: I serve as a guest editor organizing a Special Issue in the journal [Processes](https://www.mdpi.com/journal/processes/special_issues/66PX93378U).
+<!-- + May. 2024: I serve as a guest editor organizing a Special Issue in the journal [Processes](https://www.mdpi.com/journal/processes/special_issues/66PX93378U). -->
 
 
 
