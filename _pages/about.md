@@ -23,8 +23,11 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 
 ## Recent News:
+
+<!-- 13 -->
++ Oct. 2025: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
 <!-- 12 -->
-+ Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi).
++ **Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi)**.
 <!-- 11 -->
 + Jul. 2025: Our new paper is published at [IEEE TWC](https://ieeexplore.ieee.org/document/11091530).
 <!-- 10 -->
