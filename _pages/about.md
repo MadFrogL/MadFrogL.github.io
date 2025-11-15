@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing). My supervisor is respected Professor [Jun Luo](https://dr.ntu.edu.sg/cris/rp/rp01107), and my current research interests include wireless sensing, machine learning, and signal processing. I have also conducted research in the fields of acoustics and vibration analysis.
+Hi, I'm a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing). My supervisor is respected Professor [Jun Luo](https://dr.ntu.edu.sg/cris/rp/rp01107), and my current research interests include *Wireless Sensing Systems*, *Physics-Informed AI*, and *Wireless Security*. I have also conducted research in the fields of acoustics and vibration analysis.
 
 I received my Ph.D. degree in Power Machinery and Engineering from the [State Key Laboratory of Engines](https://www.tju.edu.cn/info/1058/1442.htm) at [Tianjin University](https://www.tju.edu.cn/) in 2022. I know my Ph.D. might seem unrelated to computer science, but my research focused on acoustics and vibration signal processing, which gave me a lot of freedom to explore and innovate.
 
