@@ -1,7 +1,7 @@
 ---
 title: "Poison to Cure: Privacy-preserving Wi-Fi Multi-User Sensing via Data Poisoning"
 collection: publications
-permalink: /publication/2025-08-Poison2Cure
+permalink: /publication/2025-08-1-Poison2Cure
 excerpt: 'This study leverages poisoning attacks to protect user privacy. [Code](https://github.com/DeepWiSe888/Poison2Cure)'
 date: 2025-08-31
 venue: 'ACM MobiCom'
