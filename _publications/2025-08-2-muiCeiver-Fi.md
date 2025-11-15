@@ -1,5 +1,5 @@
 ---
-title: "Ceiver-Fi: Exploiting Spectrum Resources of Multi-link Receiver for Fine-Granularity Wi-Fi Sensing"
+title: "muCeiver-Fi: Exploiting Spectrum Resources of Multi-link Receiver for Fine-Granularity Wi-Fi Sensing"
 collection: publications
 permalink: /publication/2025-08-2-muCeiver-Fi
 excerpt: 'This study leverages multi-link receiver to expand the effective sensing bandwidth. [Code](https://github.com/DeepWiSe888/muCeiver-Fi)'
