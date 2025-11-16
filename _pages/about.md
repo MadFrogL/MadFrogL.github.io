@@ -11,7 +11,7 @@ Hi, I'm a Research Fellow at [Nanyang Technological University](https://www.ntu.
 
 I received my Ph.D. degree in Power Machinery and Engineering from the [State Key Laboratory of Engines](https://www.tju.edu.cn/info/1058/1442.htm) at [Tianjin University](https://www.tju.edu.cn/) in 2022. I know my Ph.D. might seem unrelated to computer science, but my research focused on acoustics and vibration signal processing, which gave me a lot of freedom to explore and innovate.
 
-Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit, and interned for three months at China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc.
+Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit, and interned at China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc.
 
 **You can also find me by:**
 
