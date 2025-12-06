@@ -24,7 +24,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 ## Recent News:
 
-<!-- 13 -->
+<!-- 14 -->
 + Dec. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
 <!-- 13 -->
 + Oct. 2025: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/document/11237044).
