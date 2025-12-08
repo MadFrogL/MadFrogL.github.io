@@ -24,6 +24,8 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 ## Recent News:
 
+<!-- 15 -->
++ Dec. 2025: Our new paper is accepted at [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/group/81).
 <!-- 14 -->
 + Dec. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
 <!-- 13 -->
