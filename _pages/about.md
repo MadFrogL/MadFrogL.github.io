@@ -24,6 +24,9 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 ## Recent News:
 
+
+<!-- 16 -->
++ Apr. 2026: Our new paper is accepted at [ACL 2026](https://2026.aclweb.org/).
 <!-- 15 -->
 + Dec. 2025: Our new paper is accepted at [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/group/81).
 <!-- 14 -->
