@@ -24,7 +24,8 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 ## Recent News:
 
-
+<!-- 17 -->
++ Jun. 2026: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11538289).
 <!-- 16 -->
 + Apr. 2026: Our new paper is accepted at [ACL 2026](https://2026.aclweb.org/).
 <!-- 15 -->
