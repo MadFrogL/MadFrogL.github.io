@@ -24,18 +24,18 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 ## Recent News:
 
-<!-- 17 -->
-+ Jun. 2026: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11538289).
+<!-- 99 -->
++ 💥💥💥**Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi)**.
 <!-- 16 -->
-+ Apr. 2026: Our new paper is accepted at [ACL 2026](https://2026.aclweb.org/).
++ Jun. 2026: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11538289).
 <!-- 15 -->
-+ Dec. 2025: Our new paper is accepted at [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/group/81).
++ Apr. 2026: Our new paper is accepted at [ACL 2026](https://2026.aclweb.org/).
 <!-- 14 -->
-+ Dec. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11288062).
++ Dec. 2025: Our new paper is accepted at [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/group/81).
 <!-- 13 -->
-+ Oct. 2025: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/document/11237044).
++ Dec. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11288062).
 <!-- 12 -->
-+ **Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi)**.
++ Oct. 2025: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/document/11237044).
 <!-- 11 -->
 + Jul. 2025: Our new paper is published at [IEEE TWC](https://ieeexplore.ieee.org/document/11091530).
 <!-- 10 -->

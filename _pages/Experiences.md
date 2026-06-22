@@ -13,10 +13,10 @@ redirect_from:
   - Position: Research Fellow
   - Research: Wi-Fi Sensing, Security
 
-+ China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc.
+<!-- + China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc.
   - Feb 2023 – Apr 2023
   - Position: R & D Engineer (Intern)
-  - Research: Wi-Fi Sensing
+  - Research: Wi-Fi Sensing -->
 
 + Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit
   - Jul 2022 – Jan 2023
