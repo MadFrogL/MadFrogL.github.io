@@ -26,6 +26,8 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 <!-- 99 -->
 + 💥💥💥**Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi)**.
+<!-- 17 -->
++ Jun. 2026: Our new paper is published at [IEEE WCNC](https://ieeexplore.ieee.org/abstract/document/11555204).
 <!-- 16 -->
 + Jun. 2026: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11538289).
 <!-- 15 -->
@@ -53,7 +55,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 <!-- 4 -->
 + Aug. 2024: Our new paper is accepted at [ACM MobiCom 2024](https://www.researchgate.net/profile/Jun-Luo-10/publication/383396909_Beamforming_made_Malicious_Manipulating_Wi-Fi_Traffic_via_Beamform-ing_Feedback_Forgery/links/66ce79eb64f7bf7b19450153/Beamforming-made-Malicious-Manipulating-Wi-Fi-Traffic-via-Beamform-ing-Feedback-Forgery.pdf).
 <!-- 3 -->
-+ Jun. 2024: Our new paper is published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/abstract/document/10551398).
+<!-- + Jun. 2024: Our new paper is published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/abstract/document/10551398). -->
 <!-- 2 -->
 + Jun. 2024: Our new paper is published at [ACM MobiSys 2024](https://dl.acm.org/doi/abs/10.1145/3643832.3661889).
 <!-- 1 -->
