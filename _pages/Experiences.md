@@ -8,8 +8,13 @@ redirect_from:
 ---
 
 ## Employment
++ Nankai University, College of Cryptology and Cyber Science
+  - Jul 2026 – date
+  - Position: Associate Professor
+  - Research: Wi-Fi Sensing, Security
+
 + Nanyang Technological University, College of Computing and Data Science
-  - May 2023 – date
+  - May 2023 – Jun 2026
   - Position: Research Fellow
   - Research: Wi-Fi Sensing, Security
 

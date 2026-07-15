@@ -24,11 +24,13 @@ author:
   avatar           : "../images/picture.png"
   name             : "Dr. Xin Li 李鑫"
   pronouns         : # example: "she/her"  
-  bio              : "Research Fellow at NTU"
+  # bio              : "Research Fellow at NTU"
+  bio              : "Associate Professor"
   location         : "Singapore"
-  employer         : "Nanyang Technological Univ."
+  employer         : "Nankai University"
   uri              : # URL
-  email            : "l.xin@ntu.edu.sg" 
+  # email            : "l.xin@ntu.edu.sg" 
+  email            : "lxin1992@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
