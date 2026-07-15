@@ -19,6 +19,7 @@ I received my Ph.D. degree in Power Machinery and Engineering from the [State Ke
 **You can also find me by:**
 
 ~~Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798~~
+
 Address: Room 531 (West), College of Computer Science, No. 38 Tongyan Road, Jinnan District, Tianjin, P.R. China 300350
 
 [Email](mailto:lxin1992@outlook.com)/[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en)/[Github](https://github.com/MadFrogL)/[Wechat](../images/Wechat.jpg).
@@ -29,7 +30,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 ## Recent News:
 
 <!-- 99 -->
-+ 💥💥💥**Jul. 2026: I've started as an Associate Professor at [Nankai University's College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)!**
++ 💥💥💥**Jul. 2026: I've started as an Associate Professor at [Nankai University, College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)!**
 <!-- 99 -->
 + 💥💥💥**Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi).**
 <!-- 17 -->
