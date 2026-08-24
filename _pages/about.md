@@ -9,7 +9,9 @@ redirect_from:
 
 Hi, I am currently an Associate Professor at the [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/).
 Prior to this, I was a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), working under the supervision of respected Professor [Jun Luo](https://dr.ntu.edu.sg/cris/rp/rp01107).
-Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit.
+Before joining NTU, I worked at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit.
+<!-- , focusing on Intelligent Cockpit and Big Data Analytics. -->
+<!-- Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit. -->
 <!-- and interned at China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc. -->
 My current research interests include *Wireless Sensing Systems*, *Physics-Informed AI*, and *Wireless Security*. I have also conducted research in the fields of acoustics and vibration analysis.
 
@@ -18,7 +20,7 @@ I received my Ph.D. degree in Power Machinery and Engineering from the [State Ke
 
 **You can also find me by:**
 
-~~Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798~~
+<!-- ~~Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798~~ -->
 
 Address: Room 531 (West), College of Computer Science, No. 38 Tongyan Road, Jinnan District, Tianjin, P.R. China 300350
 
