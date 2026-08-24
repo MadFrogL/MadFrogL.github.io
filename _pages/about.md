@@ -33,8 +33,10 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 + 💥💥💥**Jul. 2026: I've started as an Associate Professor at [Nankai University, College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)!**
 <!-- 99 -->
 + 💥💥💥**Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi).**
+<!-- 19 -->
++ Aug. 2026: Our new paper is accepted at [EMNLP](https://2026.emnlp.org/).
 <!-- 18 -->
-+ Jul. 2026: Our new paper is accepted at [IEEE COMST](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739).
++ Jul. 2026: Our new paper is accepted at [IEEE COMST](https://ieeexplore.ieee.org/abstract/document/11643414).
 <!-- 17 -->
 + Jun. 2026: Our new paper is published at [IEEE WCNC](https://ieeexplore.ieee.org/abstract/document/11555204).
 <!-- 16 -->
@@ -60,7 +62,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 <!-- 6 -->
 + Dec. 2024: Our new paper is accepted at [IEEE INFOCOM 2025](https://ieeexplore.ieee.org/abstract/document/11044653).
 <!-- 5 -->
-+ Oct. 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/abstract/document/10736432).
+<!-- + Oct. 2024: Our new paper is accepted at [IEEE TIM](https://ieeexplore.ieee.org/abstract/document/10736432). -->
 <!-- 4 -->
 + Aug. 2024: Our new paper is accepted at [ACM MobiCom 2024](https://www.researchgate.net/profile/Jun-Luo-10/publication/383396909_Beamforming_made_Malicious_Manipulating_Wi-Fi_Traffic_via_Beamform-ing_Feedback_Forgery/links/66ce79eb64f7bf7b19450153/Beamforming-made-Malicious-Manipulating-Wi-Fi-Traffic-via-Beamform-ing-Feedback-Forgery.pdf).
 <!-- 3 -->
