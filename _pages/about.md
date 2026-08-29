@@ -35,6 +35,8 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 + 💥💥💥**Jul. 2026: I've started as an Associate Professor at [Nankai University, College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)!**
 <!-- 99 -->
 + 💥💥💥**Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi).**
+<!-- 20 -->
++ Aug. 2026: Our new paper is accepted at [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=34).
 <!-- 19 -->
 + Aug. 2026: Our new paper is accepted at [EMNLP](https://2026.emnlp.org/).
 <!-- 18 -->
@@ -58,7 +60,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 <!-- 9 -->
 + May. 2025: Our new paper is accepted at [IEEE JSAC](https://ieeexplore.ieee.org/abstract/document/11059930).
 <!-- 8 -->
-+ Mar. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330).
+<!-- + Mar. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10948330). -->
 <!-- 7 -->
 + Dec. 2024: Our new paper is accepted at [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html).
 <!-- 6 -->
