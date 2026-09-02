@@ -36,7 +36,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 <!-- 99 -->
 + 💥💥💥**Sep. 2025: We have released a practical Wi-Fi multi-person sensing dataset [NFS-Fi](https://github.com/DeepWiSe888/NFS-Fi).**
 <!-- 20 -->
-+ Aug. 2026: Our new paper is accepted at [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=34).
++ Aug. 2026: Our new paper is accepted at [IEEE TPAMI](https://ieeexplore.ieee.org/document/11673827).
 <!-- 19 -->
 + Aug. 2026: Our new paper is accepted at [EMNLP](https://2026.emnlp.org/).
 <!-- 18 -->
