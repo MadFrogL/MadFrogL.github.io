@@ -48,7 +48,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 <!-- 15 -->
 + Apr. 2026: Our new paper is accepted at [ACL 2026](https://2026.aclweb.org/).
 <!-- 14 -->
-+ Dec. 2025: Our new paper is accepted at [IEEE INFOCOM 2026](https://infocom2026.ieee-infocom.org/group/81).
++ Dec. 2025: Our new paper is accepted at [IEEE INFOCOM 2026](https://ieeexplore.ieee.org/abstract/document/11571421).
 <!-- 13 -->
 + Dec. 2025: Our new paper is accepted at [IEEE TMC](https://ieeexplore.ieee.org/document/11288062).
 <!-- 12 -->
