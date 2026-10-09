@@ -17,7 +17,7 @@ Before joining NTU, I worked at Huawei Technologies Co., Ltd., Intelligent Autom
 <!-- I received my Ph.D. degree in Power Machinery and Engineering from the [State Key Laboratory of Engines](https://www.tju.edu.cn/info/1058/1442.htm) at [Tianjin University](https://www.tju.edu.cn/) in 2022, where my research focused on signal processing and its applications in intelligent vehicles. -->
 <!-- I received my Ph.D. degree at [Tianjin University](https://www.tju.edu.cn/) in 2022, where my research focused on signal processing and its applications in intelligent vehicles. -->
 
-My current research interests include *Wireless Sensing Systems*, *Wireless Security*, and *Mobile Computing*. I have also conducted research in the fields of acoustics and vibration analysis.
+My current research interests include *Wireless Sensing*, *Wireless Security*, *Mobile Computing*, *AIoT*. I have also conducted research in the fields of acoustics and vibration analysis.
 
 
 **You can also find me by:**
