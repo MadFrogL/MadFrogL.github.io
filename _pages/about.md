@@ -88,4 +88,8 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
  -->
 
 ## Visitors:
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=LH5PmHjr6h4ApcKK5c3RcaBP6l2O1OzOoPOmT_O_etI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script
+  type="text/javascript"
+  id="mapmyvisitors"
+  src="https://mapmyvisitors.com/map.js?d=rSRVcyk57e8fWsSsCLYrOcHb4omKhXLste7wUbYpi-g&cl=ffffff&w=300&t=n&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff">
+</script>
