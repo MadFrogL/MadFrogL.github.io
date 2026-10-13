@@ -230,12 +230,12 @@ redirect_from:
 
   <!-- ===== Introduction ===== -->
 
-  <h2 class="imse-section-title">About the Lab</h2>
+  <h2 class="imse-section-title">关于实验室 · About the Lab</h2>
 
   <p>
     Our research focuses on wireless
     sensing, wireless security, mobile computing,
-    intelligent IoT systems, and intelligent cabin.
+    intelligent IoT systems, and intelligent cockpit.
   </p>
 
   <p>
@@ -247,7 +247,7 @@ redirect_from:
 
   <!-- ===== Research Directions ===== -->
 
-  <h2 class="imse-section-title">Research Directions</h2>
+  <h2 class="imse-section-title">研究方向 · Research Directions</h2>
 
   <div class="imse-research-grid">
 
@@ -263,9 +263,8 @@ redirect_from:
     <div class="imse-research-card">
       <h3>02. Wireless &amp; Mobile Security</h3>
       <p>
-        NFC and RF security, wireless side-channel
-        analysis, physical-layer security,
-        and security of mobile systems.
+        RF security, wireless side-channel
+        analysis, and security of mobile systems.
       </p>
     </div>
 
@@ -293,13 +292,31 @@ redirect_from:
   <!-- ===== Recruitment ===== -->
 
   <h2 class="imse-section-title" id="recruitment">
-    Prospective Students / 招生信息
+    招生信息 · Prospective Students 
   </h2>
 
   <div class="imse-recruit">
 
     <p>
-      <strong>Join iMSe Lab!</strong>
+      <strong>加入实验室 · Join iMSe Lab!</strong>
+    </p>
+
+    <p>
+  <span style="
+    display: inline-block;
+    color: #b42318;
+    background-color: #fff1f0;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 5px;
+  ">
+    📢 目前还有招生名额！
+  </span>
+</p>
+
+    <p>
+      欢迎对无线感知、无线安全、移动计算和智能物联网
+      感兴趣的同学联系交流，了解课题组的研究方向及潜在的科研与招生机会。
     </p>
 
     <p>
@@ -310,32 +327,27 @@ redirect_from:
       opportunities.
     </p>
 
-    <p>
-      欢迎对无线感知、无线安全、移动计算和智能物联网
-      感兴趣的同学联系交流，了解课题组的研究方向
-      及潜在的科研与招生机会。
-    </p>
-
-    <p><strong>We particularly value:</strong></p>
+    <p><strong>要求 · We particularly value:</strong></p>
 
     <ul>
       <li>
-        Strong motivation and curiosity for research.
+        自我驱动 · Strong motivation and curiosity for research.
       </li>
       <li>
-        Solid programming or mathematical foundations.
-      </li>
-      <li>
-        Interest in wireless systems, security,
+        兴趣所在 · Interest in wireless systems, security,
         signal processing, or machine learning.
       </li>
       <li>
-        Initiative, persistence, and teamwork.
+        基础能力 · Solid programming or mathematical foundations.
       </li>
     </ul>
 
     <p>
       有意向的同学可以通过邮件联系，并附上个人简历。
+    </p>
+    
+    <p>
+      Interested students are welcome to contact us via email with their CVs attached.
     </p>
 
     <p class="imse-contact">

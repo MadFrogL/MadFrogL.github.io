@@ -24,8 +24,8 @@ main:
   - title: "Experiences"
     url: /Experiences/
 
-  - title: "iMSe Lab"
-    url: /Lab/
+  # - title: "iMSe Lab"
+  #   url: /Lab/
   
   - title: "Personal"
     url: /Personal/
