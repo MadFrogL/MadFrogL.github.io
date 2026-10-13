@@ -20,6 +20,82 @@ Before joining NTU, I worked at Huawei Technologies Co., Ltd., Intelligent Autom
 My current research interests include *Wireless Sensing*, *Wireless Security*, *Mobile Computing*, *AIoT*. I have also conducted research in the fields of acoustics and vibration analysis.
 
 
+
+<!-- ===== Recruitment Notice: START ===== -->
+
+<style>
+.imse-notice {
+  margin: 1.5rem 0;
+  padding: 1.15rem 1.35rem;
+  border: 1px solid #d3e1ef;
+  border-left: 4px solid #173b60;
+  border-radius: 9px;
+  background: #f4f8fd;
+}
+
+.imse-notice-title {
+  margin: 0 0 0.55rem !important;
+  color: #173b60;
+  font-size: 1.12rem !important;
+  font-weight: 750;
+}
+
+.imse-notice p {
+  margin: 0 0 0.55rem !important;
+  color: #526477;
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+
+.imse-notice-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.55rem 1rem;
+  border-radius: 6px;
+  background: #173b60;
+  color: #ffffff !important;
+  font-size: 0.82rem;
+  font-weight: 650;
+  text-decoration: none !important;
+  transition: background 0.2s ease;
+}
+
+.imse-notice-link:hover,
+.imse-notice-link:focus-visible {
+  background: #285d8d;
+  color: #ffffff !important;
+}
+</style>
+
+<aside class="imse-notice" aria-label="Recruitment notice">
+
+  <h2 class="imse-notice-title">
+    🎓 Prospective Students / 招生信息
+  </h2>
+
+  <p>
+    Students interested in wireless sensing,
+    wireless security, mobile computing,
+    and intelligent IoT are welcome to explore
+    research opportunities at iMSe Lab.
+  </p>
+
+  <p>
+    欢迎对相关研究方向感兴趣的同学了解课题组及招生信息。
+  </p>
+
+  <a class="imse-notice-link"
+     href="/Lab/#recruitment">
+    Explore iMSe Lab &rarr;
+  </a>
+
+</aside>
+
+<!-- ===== Recruitment Notice: END ===== -->
+
+
+
+
 **You can also find me by:**
 
 <!-- ~~Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798~~ -->
