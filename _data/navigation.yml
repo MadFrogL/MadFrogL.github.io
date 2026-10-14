@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "iMSe Lab"
-    url: /Lab/
+  # - title: "iMSe Lab"
+  #   url: /Lab/
 
   - title: "Publications"
     url: /publications/
