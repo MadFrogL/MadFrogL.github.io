@@ -10,6 +10,7 @@ redirect_from:
 Hi, I am currently an Associate Professor at the [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/).
 Prior to this, I was a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), working under the supervision of respected Professor [Jun Luo](https://dr.ntu.edu.sg/cris/rp/rp01107).
 Before joining NTU, I worked at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit.
+I received my Ph.D. degree from [Tianjin University](https://www.tju.edu.cn/) in 2022.
 <!-- , focusing on Intelligent Cockpit and Big Data Analytics. -->
 <!-- Before joining NTU, I briefly worked for six months at Huawei Technologies Co., Ltd., Intelligent Automotive Solution Business Unit. -->
 <!-- and interned at China-Singapore International Joint Research Institute, AIWiSe Ltd. Inc. -->
