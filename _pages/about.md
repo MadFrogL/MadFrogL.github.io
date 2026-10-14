@@ -21,6 +21,8 @@ My current research interests include *Wireless Sensing*, *Wireless Security*, *
 
 
 
+<div class="home-contact" markdown="1">
+
 **You can also find me by:**
 
 <!-- ~~Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798~~ -->
@@ -30,6 +32,8 @@ Address: Room 531 (West), College of Computer Science, No. 38 Tongyan Road, Jinn
 [Email](mailto:li.xin@nankai.edu.cn)/[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en)/[Github](https://github.com/MadFrogL)/[Wechat](../images/Wechat.jpg).
 
 Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
+
+</div>
 
 
 
