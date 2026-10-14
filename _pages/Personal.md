@@ -23,4 +23,4 @@ I enjoy experiencing new things!
 + I enjoy arguing with people on Hupu and in games to relieve stress 💀💀💀
 + Klorane shampoo really can prevent hair loss! (Not an ad...)  🤣🤣🤣🤣🤣
 + I was a member of a Formula Student China Formula Student Team.
-![FSC](https://github.com/MadFrogL/MadFrogL.github.io/assets/53749938/15fd69da-ee63-48ae-ba53-068cd5aff411)
+<a class="image-popup personal-photo" href="https://github.com/MadFrogL/MadFrogL.github.io/assets/53749938/15fd69da-ee63-48ae-ba53-068cd5aff411" aria-label="View FSC photo"><img src="https://github.com/MadFrogL/MadFrogL.github.io/assets/53749938/15fd69da-ee63-48ae-ba53-068cd5aff411" alt="FSC" loading="lazy"></a>

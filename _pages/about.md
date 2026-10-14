@@ -29,7 +29,12 @@ My current research interests include *Wireless Sensing*, *Wireless Security*, *
 
 Address: Room 531 (West), College of Computer Science, No. 38 Tongyan Road, Jinnan District, Tianjin, P.R. China 300350
 
-[Email](mailto:li.xin@nankai.edu.cn)/[Google Scholar](https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en)/[Github](https://github.com/MadFrogL)/[Wechat](../images/Wechat.jpg).
+<span class="contact-links">
+<a href="mailto:li.xin@nankai.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+<a href="https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+<a href="https://github.com/MadFrogL"><i class="fab fa-github" aria-hidden="true"></i> Github</a>
+<a href="../images/Wechat.jpg" class="image-popup"><i class="fab fa-weixin" aria-hidden="true"></i> Wechat</a>
+</span>
 
 Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
