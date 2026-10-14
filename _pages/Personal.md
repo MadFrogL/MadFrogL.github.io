@@ -11,7 +11,8 @@ redirect_from:
 
 
 ## Hobby
-+ I enjoy experiencing new things!
+I enjoy experiencing new things!
+
 + Hiking🥾
 + Photograph🖼️
 + Basketball🏀

@@ -39,7 +39,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 <!-- ===== Recruitment Notice: START ===== -->
 
-<!-- <style>
+<style>
 .imse-notice {
   margin: 1.5rem 0;
   padding: 1.15rem 1.35rem;
@@ -105,7 +105,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
     Explore iMSe Lab &rarr;
   </a>
 
-</aside> -->
+</aside>
 
 <!-- ===== Recruitment Notice: END ===== -->
 

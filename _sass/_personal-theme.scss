@@ -31,8 +31,8 @@ a:focus-visible, button:focus-visible {
 .masthead__inner-wrap { max-width: 1180px; padding: 12px 28px; }
 .masthead__menu-item--lg { padding-right: 2rem; }
 .greedy-nav {
-  a { color: var(--site-muted); font-size: 15px; }
-  .masthead__menu-item--lg a { color: var(--site-blue); font-size: 17px; letter-spacing: -0.3px; }
+  a { color: var(--site-muted); font-size: 17px; }
+  .masthead__menu-item--lg a { color: var(--site-blue); font-size: 18px; letter-spacing: -0.3px; }
   a[aria-current="page"] { color: var(--site-blue); font-weight: 700; }
   .visible-links a:before { height: 2px; background: var(--site-blue); border-radius: 2px; }
   .visible-links a[aria-current="page"]:before { transform: scaleX(1); }
@@ -75,8 +75,9 @@ a:focus-visible, button:focus-visible {
   max-width: none;
   .author__name { color: var(--site-blue); font-size: 21px; line-height: 1.4; margin-top: 18px; }
   .author__bio { color: var(--site-muted); font-size: 14px; line-height: 1.6; }
-  .author__urls { font-size: 14px; }
-  .author__urls li { margin-bottom: 4px; }
+  .author__urls { font-size: 15px; }
+  // Set the row size explicitly: the base theme scales sidebar li to 0.75em.
+  .author__urls li { font-size: 15px; line-height: 1.65; margin-bottom: 5px; }
   .author__urls a { color: var(--site-muted); }
   .author__urls a:hover { color: var(--site-blue); }
 }
@@ -85,6 +86,22 @@ a:focus-visible, button:focus-visible {
 /* Home: preserve the introduction, contact copy and complete news list. */
 .home-contact { margin: 26px 0 32px; padding: 20px 24px; background: var(--site-soft); border: 1px solid var(--site-line); border-radius: 10px; }
 .home-contact p:last-child { margin-bottom: 0; }
+body[data-page="/"] .imse-notice {
+  margin: 28px 0 36px;
+  padding: 22px 24px;
+  border-color: var(--site-line);
+  border-left-color: var(--site-blue);
+  border-radius: 10px;
+  background: linear-gradient(120deg, #f1f6fc, #fafcfe);
+  .imse-notice-title {
+    font-size: 21px !important;
+    line-height: 1.45;
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+  p { font-size: 15px; line-height: 1.8; }
+  .imse-notice-link { font-size: 15px; padding: 9px 16px; }
+}
 body[data-page="/"] .page__content > ul { padding-left: 22px; }
 body[data-page="/"] .page__content > ul > li { padding-left: 4px; margin-bottom: 13px; }
 body[data-page="/"] .page__content > ul > li::marker { color: #8aa4bf; }
@@ -115,8 +132,10 @@ body[data-page="/Experiences/"] .page__content > ul {
 }
 
 body[data-page="/Personal/"] .page__content {
-  > ul:first-of-type { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; list-style: none; padding: 0; }
-  > ul:first-of-type > li { padding: 12px 16px; margin: 0; background: var(--site-soft); border: 1px solid var(--site-line); border-radius: 8px; }
+  // Ordinary Markdown lists grow naturally as interests are added or removed.
+  > ul { padding-left: 24px; }
+  > ul > li { padding-left: 4px; margin-bottom: 10px; }
+  > ul > li::marker { color: #8aa4bf; }
   img { display: block; margin-top: 20px; border-radius: 10px; }
 }
 
@@ -131,8 +150,12 @@ body[data-page="/Lab/"] .imse-page {
   .imse-section-title { font-size: 22px !important; margin-top: 38px !important; }
   .imse-research-card { padding: 20px; }
   .imse-research-card p { font-size: 14px; }
+  .imse-research-card h3 { line-height: 1.5; }
+  #recruitment { scroll-margin-top: 100px; }
   .imse-recruit { background: var(--site-soft); }
   .imse-recruit p, .imse-recruit ul { font-size: 15px; }
+  .imse-contact { padding-top: 16px; border-top: 1px solid var(--site-line); }
+  .imse-contact a { overflow-wrap: anywhere; }
 }
 .page__footer { background: #f7f9fc; border-top-color: var(--site-line); color: var(--site-muted); }
 .page__footer footer { max-width: 1180px; padding-left: 28px; padding-right: 28px; }
@@ -154,11 +177,12 @@ body[data-page="/Lab/"] .imse-page {
   #main { padding: 0 20px; margin-top: 24px; }
   .masthead__inner-wrap { padding-left: 20px; padding-right: 20px; }
   .masthead__menu-item--lg { padding-right: 10px; }
-  .greedy-nav .masthead__menu-item--lg a { font-size: 15px; }
+  .greedy-nav .masthead__menu-item--lg a { font-size: 16px; }
   .page__title { font-size: 28px; margin-bottom: 22px; }
   .page__content h2 { font-size: 21px; }
   .home-contact { padding: 18px; }
-  body[data-page="/Personal/"] .page__content > ul:first-of-type { grid-template-columns: 1fr; }
+  body[data-page="/"] .imse-notice { padding: 18px; }
+  body[data-page="/"] .imse-notice .imse-notice-title { font-size: 19px !important; }
   body[data-page="/Lab/"] .imse-page .imse-hero { padding: 18px; }
   body[data-page="/Lab/"] .imse-hero-top { flex-wrap: wrap; }
   body[data-page="/Lab/"] .imse-page .imse-hero-title { font-size: 24px !important; }
