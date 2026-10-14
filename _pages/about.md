@@ -38,7 +38,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 
 <!-- ===== Recruitment Notice: START ===== -->
-
+<!--
 <style>
 .imse-notice {
   margin: 1.5rem 0;
@@ -106,7 +106,7 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
   </a>
 
 </aside>
-
+-->
 <!-- ===== Recruitment Notice: END ===== -->
 
 
