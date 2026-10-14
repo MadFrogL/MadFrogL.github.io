@@ -1,4 +1,10 @@
 ---
+# Optional research directions: uncomment and keep only matching IDs.
+# research:
+#   - wireless-sensing
+#   - wireless-security
+#   - mobile-computing
+#   - vehicular-systems
 title: "Beamforming Made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery"
 collection: publications
 permalink: /publication/2024-08-BeamCraft-MobiCom

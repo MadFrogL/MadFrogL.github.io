@@ -1,5 +1,11 @@
 <!--
 ---
+# Optional research directions: uncomment and keep only matching IDs.
+# research:
+#   - wireless-sensing
+#   - wireless-security
+#   - mobile-computing
+#   - vehicular-systems
 title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3

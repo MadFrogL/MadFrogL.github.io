@@ -21,26 +21,6 @@ My current research interests include *Wireless Sensing*, *Wireless Security*, *
 
 
 
-<div class="home-contact" markdown="1">
-
-**You can also find me by:**
-
-<!-- ~~Address: Blk N4, # B2a-01, 50 Nanyang Avenue, Singapore 639798~~ -->
-
-Address: Room 531 (West), College of Computer Science, No. 38 Tongyan Road, Jinnan District, Tianjin, P.R. China 300350
-
-<span class="contact-links">
-<a href="mailto:li.xin@nankai.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
-<a href="https://scholar.google.com/citations?user=qSy0jogAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
-<a href="https://github.com/MadFrogL"><i class="fab fa-github" aria-hidden="true"></i> Github</a>
-<a href="../images/Wechat.jpg" class="image-popup"><i class="fab fa-weixin" aria-hidden="true"></i> Wechat</a>
-</span>
-
-Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
-
-</div>
-
-
 
 <!-- ===== Recruitment Notice: START ===== -->
 <!--
@@ -164,12 +144,21 @@ Discussion welcome with prior disclosure of **Full Name** and **Affiliation**.
 
 
 
-<!--
-## Working State:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadFrogL&mode=weekly" alt="GitHub Streak" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadFrogL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
- -->
+<div class="home-contact" markdown="1">
+
+**通信地址 · Address**
+
+地址：天津市津南区同砚路38号南开大学，计算机学院楼西侧（计算机/电光楼连廊）531室，邮编300350。
+
+Address: Room 531 (West), College of Computer Science, No. 38 Tongyan Road, Jinnan District, Tianjin, P.R. China 300350.
+
+欢迎通过邮件交流与讨论，来信时请先说明您的**姓名**和**所在单位**。
+
+Discussion and collaboration inquiries are welcome by email. Please include your **Full Name** and **Affiliation** when getting in touch.
+
+</div>
+
 
 ## Visitors:
 <script

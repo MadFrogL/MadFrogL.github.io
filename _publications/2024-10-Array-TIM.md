@@ -1,4 +1,10 @@
 ---
+# Optional research directions: uncomment and keep only matching IDs.
+# research:
+#   - wireless-sensing
+#   - wireless-security
+#   - mobile-computing
+#   - vehicular-systems
 title: "Data-Driven Optimization Strategy of Microphone Array Configurations in Vehicle Environments"
 collection: publications
 permalink: /publication/2024-10-Array-TIM

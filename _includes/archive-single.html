@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item"{% if post.collection == 'publications' %} data-research="{{ post.research | join: ' ' | escape }}"{% endif %}>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -33,6 +33,11 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    {% if post.dataset_url %}
+      <div class="publication-dataset">
+        <a href="{{ post.dataset_url | escape }}"><i class="fas fa-database" aria-hidden="true"></i> Dataset <span>{{ post.dataset_name | escape }}</span> <span aria-hidden="true">&rarr;</span></a>
+      </div>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>

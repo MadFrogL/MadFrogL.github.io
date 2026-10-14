@@ -250,43 +250,18 @@ redirect_from:
   <h2 class="imse-section-title">研究方向 · Research Directions</h2>
 
   <div class="imse-research-grid">
-
-    <div class="imse-research-card">
-      <h3>01. Wireless Sensing &amp; Intelligence</h3>
-      <p>
-        Wi-Fi and RF sensing, human activity
-        recognition, cross-domain sensing,
-        and learning-based intelligent sensing.
-      </p>
-    </div>
-
-    <div class="imse-research-card">
-      <h3>02. Wireless &amp; Mobile Security</h3>
-      <p>
-        RF security, wireless side-channel
-        analysis, and security of mobile systems.
-      </p>
-    </div>
-
-    <div class="imse-research-card">
-      <h3>03. Mobile Computing &amp; Intelligent IoT</h3>
-      <p>
-        Mobile and ubiquitous computing,
-        intelligent connected devices,
-        AIoT systems, and context-aware
-        applications.
-      </p>
-    </div>
-
-    <div class="imse-research-card">
-      <h3>04. Intelligent Vehicular Systems</h3>
-      <p>
-        In-vehicle sensing, intelligent cockpit
-        systems, multimodal interaction,
-        and smart mobility applications.
-      </p>
-    </div>
-
+    {% for direction in site.data.research %}
+      <section class="imse-research-card">
+        {% if direction.image and direction.image != '' %}
+          <img class="research-image" src="{{ direction.image | relative_url }}" alt="{{ direction.title | escape }}" loading="lazy">
+        {% else %}
+          <div class="research-placeholder" aria-hidden="true"><i class="fas fa-{{ direction.icon | escape }}"></i></div>
+        {% endif %}
+        <h3>{{ forloop.index | prepend: '0' }}. {{ direction.title | escape }}</h3>
+        <p>{{ direction.description | escape }}</p>
+        <a class="research-paper-link" href="{{ '/publications/' | relative_url }}?research={{ direction.id | url_encode }}">Related publications <span aria-hidden="true">&rarr;</span></a>
+      </section>
+    {% endfor %}
   </div>
 
   <!-- ===== Recruitment ===== -->

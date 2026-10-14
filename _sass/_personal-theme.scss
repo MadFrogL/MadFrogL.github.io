@@ -119,6 +119,42 @@ body[data-page="/"] .page__content > ul > li::marker { color: #8aa4bf; }
 body[data-page="/"] .page__content > ul > li > strong { color: var(--site-blue); }
 
 /* Publications stay a readable, single-column collection. */
+.research-filters {
+  display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 16px;
+  button { padding: 7px 12px; border: 1px solid var(--site-line); border-radius: 6px; background: #fff; color: var(--site-blue); font: inherit; font-size: 14px; cursor: pointer; }
+  button:hover { background: var(--site-soft); }
+  button[aria-pressed="true"] { background: var(--site-blue); color: #fff; border-color: var(--site-blue); }
+}
+.research-filters[hidden], [data-research][hidden], #research-filter-status[hidden] { display: none; }
+#research-filter-status { padding: 12px 16px; background: var(--site-soft); border-radius: 6px; color: var(--site-muted); font-size: 14px; }
+body[data-page="/Lab/"] .imse-page {
+  .imse-research-card { display: flex; flex-direction: column; min-width: 0; }
+  .research-image, .research-placeholder { width: 100%; aspect-ratio: 16 / 9; margin: 0 0 16px; border-radius: 6px; background: var(--site-soft); }
+  .research-image { object-fit: contain; }
+  .research-placeholder { display: flex; align-items: center; justify-content: center; color: #6a89a9; font-size: 38px; }
+  .research-paper-link { align-self: flex-start; margin-top: auto; padding-top: 16px; font-size: 14px; font-weight: 650; }
+}
+.publication-dataset {
+  margin: 0 0 16px;
+  a {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 7px 12px;
+    border: 1px solid #cbddec;
+    border-left: 3px solid var(--site-link);
+    border-radius: 6px;
+    background: #edf5fc;
+    color: var(--site-blue);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  a:visited { color: var(--site-blue); }
+  a:hover { background: #deedf9; text-decoration: none; }
+  a span:first-of-type { padding-left: 8px; border-left: 1px solid #bfd1e2; font-weight: 700; }
+}
 body[data-page="/publications/"] {
   .wordwrap { color: var(--site-muted); margin-bottom: 28px; }
   .list__item { padding: 25px 0; border-bottom: 1px solid var(--site-line); }

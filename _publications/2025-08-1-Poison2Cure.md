@@ -1,4 +1,10 @@
 ---
+# Optional research directions: uncomment and keep only matching IDs.
+# research:
+#   - wireless-sensing
+#   - wireless-security
+#   - mobile-computing
+#   - vehicular-systems
 title: "Poison to Cure: Privacy-preserving Wi-Fi Multi-User Sensing via Data Poisoning"
 collection: publications
 permalink: /publication/2025-08-1-Poison2Cure
