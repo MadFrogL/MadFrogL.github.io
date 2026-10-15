@@ -233,9 +233,9 @@ redirect_from:
   <h2 class="imse-section-title">关于实验室 · About the Lab</h2>
 
   <p>
-    Our research focuses on wireless
-    sensing, wireless security, mobile computing,
-    intelligent IoT systems, and intelligent cockpit.
+    Our research focuses on wireless sensing and AIoT,
+    mobile intelligence, wireless and mobile security,
+    and intelligent vehicular systems.
   </p>
 
   <p>
@@ -290,14 +290,14 @@ redirect_from:
 </p>
 
     <p>
-      欢迎对无线感知、无线安全、移动计算和智能物联网
+      欢迎对无线感知与智能物联网、移动智能、无线与移动安全以及智能车载系统
       感兴趣的同学联系交流，了解课题组的研究方向及潜在的科研与招生机会。
     </p>
 
     <p>
       We welcome motivated students interested
-      in wireless sensing, wireless security,
-      mobile computing, and intelligent IoT
+      in wireless sensing and AIoT, mobile intelligence,
+      wireless and mobile security, and intelligent vehicular systems
       to contact us about potential research
       opportunities.
     </p>

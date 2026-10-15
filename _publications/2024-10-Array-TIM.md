@@ -2,8 +2,8 @@
 # Optional research directions: uncomment and keep only matching IDs.
 # research:
 #   - wireless-sensing
+#   - mobile-intelligence
 #   - wireless-security
-#   - mobile-computing
 #   - vehicular-systems
 title: "Data-Driven Optimization Strategy of Microphone Array Configurations in Vehicle Environments"
 collection: publications

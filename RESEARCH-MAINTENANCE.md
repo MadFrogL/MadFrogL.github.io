@@ -25,7 +25,12 @@ research:
 ```
 
 只保留匹配的方向。同一篇论文可以属于多个方向。
-当前方向 ID：`wireless-sensing`、`wireless-security`、`mobile-computing`、`vehicular-systems`。
+当前方向及 ID（按展示顺序）：
+
+- Wireless Sensing & AIoT：`wireless-sensing`
+- Mobile Intelligence：`mobile-intelligence`
+- Wireless & Mobile Security：`wireless-security`
+- Intelligent Vehicular Systems：`vehicular-systems`
 
 未设置、留空或保持注释的论文照常显示在 All publications 中，不进入具体方向。
 某方向尚无论文时显示空状态；不存在的方向参数退回全部列表。

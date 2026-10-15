@@ -3,8 +3,8 @@
 # Optional research directions: uncomment and keep only matching IDs.
 # research:
 #   - wireless-sensing
+#   - mobile-intelligence
 #   - wireless-security
-#   - mobile-computing
 #   - vehicular-systems
 title: "Paper Title Number 4"
 collection: publications

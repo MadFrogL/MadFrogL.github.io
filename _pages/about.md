@@ -18,7 +18,7 @@ I received my Ph.D. degree from [Tianjin University](https://www.tju.edu.cn/) in
 <!-- I received my Ph.D. degree in Power Machinery and Engineering from the [State Key Laboratory of Engines](https://www.tju.edu.cn/info/1058/1442.htm) at [Tianjin University](https://www.tju.edu.cn/) in 2022, where my research focused on signal processing and its applications in intelligent vehicles. -->
 <!-- I received my Ph.D. degree at [Tianjin University](https://www.tju.edu.cn/) in 2022, where my research focused on signal processing and its applications in intelligent vehicles. -->
 
-My current research interests include *Wireless Sensing*, *Wireless Security*, *Mobile Computing*, *AIoT*. I have also conducted research in the fields of acoustics and vibration analysis.
+My current research interests include *Wireless Sensing & AIoT*, *Mobile Intelligence*, *Wireless & Mobile Security*, *Intelligent Vehicular Systems*. I have also conducted research in the fields of acoustics and vibration analysis.
 
 
 
@@ -76,9 +76,9 @@ My current research interests include *Wireless Sensing*, *Wireless Security*, *
   </h2>
 
   <p>
-    Students interested in wireless sensing,
-    wireless security, mobile computing,
-    and intelligent IoT are welcome to explore
+    Students interested in wireless sensing and AIoT,
+    mobile intelligence, wireless and mobile security,
+    and intelligent vehicular systems are welcome to explore
     research opportunities at iMSe Lab.
   </p>
 

@@ -2,8 +2,8 @@
 # Optional research directions: uncomment and keep only matching IDs.
 # research:
 #   - wireless-sensing
+#   - mobile-intelligence
 #   - wireless-security
-#   - mobile-computing
 #   - vehicular-systems
 title: "Knock Detection Based on the Optimized Variational Mode Decomposition"
 collection: publications

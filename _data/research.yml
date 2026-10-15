@@ -1,23 +1,23 @@
 # Keep id stable; edit title, description, image or item order freely.
 # image example: /images/research/wireless-sensing.jpg
 - id: wireless-sensing
-  title: Wireless Sensing & Intelligence
+  title: Wireless Sensing & AIoT
   image: ''
   icon: broadcast-tower
   description: Wi-Fi and RF sensing, human activity recognition, cross-domain sensing,
-    and learning-based intelligent sensing.
+    and intelligent IoT systems.
+- id: mobile-intelligence
+  title: Mobile Intelligence
+  image: ''
+  icon: network-wired
+  description: Mobile and ubiquitous computing, intelligent connected devices, and
+    context-aware intelligent applications.
 - id: wireless-security
   title: Wireless & Mobile Security
   image: ''
   icon: shield-alt
   description: RF security, wireless side-channel analysis, and security of mobile
     systems.
-- id: mobile-computing
-  title: Mobile Computing & Intelligent IoT
-  image: ''
-  icon: network-wired
-  description: Mobile and ubiquitous computing, intelligent connected devices, AIoT
-    systems, and context-aware applications.
 - id: vehicular-systems
   title: Intelligent Vehicular Systems
   image: ''

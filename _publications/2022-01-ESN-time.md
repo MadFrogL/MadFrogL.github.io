@@ -2,8 +2,8 @@
 # Optional research directions: uncomment and keep only matching IDs.
 # research:
 #   - wireless-sensing
+#   - mobile-intelligence
 #   - wireless-security
-#   - mobile-computing
 #   - vehicular-systems
 title: "An Echo State Network With Improved Topology for Time Series Prediction"
 collection: publications
