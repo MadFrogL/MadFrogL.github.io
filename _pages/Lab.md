@@ -12,7 +12,7 @@ redirect_from:
 
 
 <style>
-/* ===== iMSe Lab Page ===== */
+/* ===== mobiwise Lab Page ===== */
 
 .imse-page {
   --imse-blue: #173b60;
@@ -45,7 +45,7 @@ redirect_from:
   border-radius: 10px;
   background: var(--imse-blue);
   color: white;
-  font-size: 1.9rem;
+  font-size: 1.25rem;
   font-weight: 800;
   letter-spacing: -0.05em;
 }
@@ -179,7 +179,7 @@ redirect_from:
   .imse-mark {
     flex-basis: 80px;
     height: 78px;
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .imse-hero-title {
@@ -204,26 +204,23 @@ redirect_from:
   <section class="imse-hero">
     <div class="imse-hero-top">
 
-      <div class="imse-mark">iMSe</div>
+      <div class="imse-mark">mobiwise</div>
 
       <div class="imse-hero-info">
-        <h2 class="imse-hero-title">iMSe Lab</h2>
+        <h2 class="imse-hero-title">mobiwise Lab</h2>
         <p class="imse-hero-en">
-          Intelligent Mobile Systems and Security Laboratory
+          MobiWISE Laboratory
         </p>
         <p class="imse-hero-cn">
-          智能移动系统与安全实验室 · 南开大学
+          移动智能实验室 · 南开大学
         </p>
       </div>
 
     </div>
 
     <div class="imse-hero-bottom">
-      <p class="imse-motto">
-        I See Beyond the Visible.
-      </p>
-      <p class="imse-motto-cn">
-        超越可见，洞察未知。
+      <p class="lab-keywords">
+        Mobile · Wireless · AI · Sensing · Security
       </p>
     </div>
   </section>
@@ -273,7 +270,7 @@ redirect_from:
   <div class="imse-recruit">
 
     <p>
-      <strong>加入实验室 · Join iMSe Lab!</strong>
+      <strong>加入实验室 · Join mobiwise Lab!</strong>
     </p>
 
     <p>

@@ -79,7 +79,7 @@ My current research interests include *Wireless Sensing & AIoT*, *Mobile Intelli
     Students interested in wireless sensing and AIoT,
     mobile intelligence, wireless and mobile security,
     and intelligent vehicular systems are welcome to explore
-    research opportunities at iMSe Lab.
+    research opportunities at MobiWISE Lab.
   </p>
 
   <p>
@@ -88,7 +88,7 @@ My current research interests include *Wireless Sensing & AIoT*, *Mobile Intelli
 
   <a class="imse-notice-link"
      href="/Lab/#recruitment">
-    Explore iMSe Lab &rarr;
+    Explore MobiWISE Lab &rarr;
   </a>
 
 </aside>
