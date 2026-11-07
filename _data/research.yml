@@ -24,3 +24,8 @@
   icon: car
   description: In-vehicle sensing, intelligent cockpit systems, multimodal interaction,
     and smart mobility applications.
+- id: ai
+  title: AI
+  image: ''
+  icon: brain
+  description: LLM & AI.

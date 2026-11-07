@@ -1,8 +1,8 @@
 ---
 # Optional research directions: uncomment and keep only matching IDs.
-# research:
-#   - wireless-sensing
-#   - mobile-intelligence
+research:
+  - wireless-sensing
+  - mobile-intelligence
 #   - wireless-security
 #   - vehicular-systems
 title: "muCeiver-Fi: Exploiting Spectrum Resources of Multi-link Receiver for Fine-Granularity Wi-Fi Sensing"

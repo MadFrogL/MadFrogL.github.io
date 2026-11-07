@@ -1,8 +1,8 @@
 ---
 # Optional research directions: uncomment and keep only matching IDs.
-# research:
-#   - wireless-sensing
-#   - mobile-intelligence
+research:
+  - wireless-sensing
+  - mobile-intelligence
 #   - wireless-security
 #   - vehicular-systems
 title: "UWB-Fi Pushing Wi-Fi towards Ultra-wideband for Fine-Granularity Sensing"
